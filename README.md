@@ -2,7 +2,7 @@
 
 # COVID-19 Tableau Project
 
-This Repository contains the COVID-19 Tableau Project which features the real time analysis
+This Repository contains the COVID-19 Tracker Tableau Project which features the real time analysis.
 
 Visit my Tableau Public Profile for more Visualizations:
 [Link](https://public.tableau.com/profile/imsid777#!/)
