@@ -4,6 +4,9 @@
 
 This Repository contains the COVID-19 Tableau Project which features the real time analysis
 
+Visit my Tableau Public Profile for more Visualizations:
+[Link](https://public.tableau.com/profile/imsid777#!/)
+
 **Outputs:**
 
 Dashboard:
